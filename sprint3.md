@@ -11,3 +11,7 @@ The Augur API contains a vast trove of data that is useful for open source devel
 [Testing Plan](https://docs.google.com/document/d/1NiZfeCuQyyQOriv2dyXpgPtdCbAi0CcWejoWNQh8LSs/edit?usp=sharing)
 
 [Updated Requirements Document](https://docs.google.com/spreadsheets/d/1MSeKbGNqvQsGr43IfLFjjosbljfCtr7gUmJArZpcZtU/edit?usp=sharing)
+
+![Number of Closed Issues per Month](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint3/number%20of%20closed%20issues%20test.png)
+
+![Number of New Issues Test](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint3/number%20of%20new%20issues%20test.png)
