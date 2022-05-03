@@ -11,6 +11,8 @@ We output each visualization as an image.
 
 [Augur GitHub Repo](https://github.com/ashprayaga/augur)
 
+[Updated Design Document](https://docs.google.com/document/d/1odypIgyCCF-ZZHVI5jvof50nNXBzfTE94_u8RUlrV1Y/edit)
+
 ## Visualizations
 
 ![Number of Closed Issues per Month](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint3/number%20of%20closed%20issues%20test.png)
