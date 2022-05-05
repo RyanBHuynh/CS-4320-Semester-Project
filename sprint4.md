@@ -15,7 +15,7 @@ We output each visualization as an image.
 
 ## Visualizations
 
-![Number of New Issues Test](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint3/number%20of%20new%20issues%20test.png)
+![Number of New Issues Test](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint4/Visualizations/number%20of%20new%20issues%20per%20month.png)
 
 ![Average Issue Age Over Several Months](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint4/Visualizations/average%20issue%20age%20over%20several%20months.png)
 
