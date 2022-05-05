@@ -21,4 +21,4 @@ We output each visualization as an image.
 
 ![Number of Closed Issues per Month](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint3/number%20of%20closed%20issues%20test.png)
 
-![Number of Issue Particpants Per Month](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint4/number%20of%20issue%20participants%20per%20month.png)
+![Number of Issue Participants Per Month](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint4/number%20of%20issue%20participants%20per%20month.png)
