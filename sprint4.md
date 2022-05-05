@@ -17,8 +17,10 @@ We output each visualization as an image.
 
 ![Number of New Issues Test](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint3/number%20of%20new%20issues%20test.png)
 
-![Average Issue Age Over Several Months](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint4/average%20issue%20age%20over%20several%20months.png)
+![Average Issue Age Over Several Months](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint4/Visualizations/average%20issue%20age%20over%20several%20months.png)
 
 ![Number of Closed Issues per Month](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint3/number%20of%20closed%20issues%20test.png)
 
-![Number of Issue Participants Per Month](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint4/number%20of%20issue%20participants%20per%20month.png)
+![Number of Issue Participants Per Month](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint4/Visualizations/number%20of%20issue%20participants%20per%20month.png)
+
+![Number of Forks Over Time](https://raw.githubusercontent.com/RyanBHuynh/CS-4320-Semester-Project/sprint4/Visualizations/Number%20of%20forks%20over%20time.png)
